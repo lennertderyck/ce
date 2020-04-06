@@ -2,6 +2,8 @@
 
 ### This project is temporary on hold due to school, work etc.
 
+---
+
 A library of css classes, supported by some javascript, that can be easily added to html elements.
 
 **Visit <a href="https://ce.lennertderyck.be" rel="noopener" target="_blank">ce.lennertderyck.be</a> for more info.**
